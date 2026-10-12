@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>lis351-web</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Images/Alaska-Hero.png</name>
+			<type>1</type>
+			<location>C:/Users/prach/eclipse-workspace/lis351-web/Images/Alaska-Hero.png</location>
+		</link>
+		<link>
+			<name>Images/Alaskawildlife.png</name>
+			<type>1</type>
+			<location>C:/Users/prach/eclipse-workspace/lis351-web/Images/Alaskawildlife.png</location>
+		</link>
+		<link>
+			<name>Images/Denali.png</name>
+			<type>1</type>
+			<location>C:/Users/prach/eclipse-workspace/lis351-web/Images/Denali.png</location>
+		</link>
+		<link>
+			<name>Images/Glaciers.png</name>
+			<type>1</type>
+			<location>C:/Users/prach/eclipse-workspace/lis351-web/Images/Glaciers.png</location>
+		</link>
+		<link>
+			<name>Images/Kenai-Fjords.png</name>
+			<type>1</type>
+			<location>C:/Users/prach/eclipse-workspace/lis351-web/Images/Kenai-Fjords.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
